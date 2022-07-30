@@ -24,7 +24,7 @@ Link: [MIT License](https://opensource.org/licenses/MIT)
 - Heroku
 
 ## Images
-[JATE-DEMO](./client/src/images/jate-wk-19.gif)
+![JATE DEMO](./assets/images/jate-wk-19.gif)
 
 ## Links
 
